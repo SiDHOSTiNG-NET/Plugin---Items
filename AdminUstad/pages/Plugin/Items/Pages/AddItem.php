@@ -34,7 +34,7 @@
 <div class="container-fluid" >
 	<div class="row">
 		<div class="col px-0" >
-            <div class="p-3" style="font-weight: bold;">Select Item Type TEST JAFFAR:</div>
+            <div class="p-3" style="font-weight: bold;">Select Item Type TEST JAFFAR 2:</div>
             <div class="btn-group-vertical rounded-0 btn-group-lg btn-block">
                 <a href="<?php echo $AdminFolder; ?>/Plugin/Items/Pages/AddItem/Step2?ItemType=StandardItem" class="btn btn-li text-left " >Standard Item</a>
                 <a href="<?php echo $AdminFolder; ?>/Plugin/Items/Pages/AddItem/Step2?ItemType=VirtualItem" class="btn btn-li text-left"   >Virtual Item</a>
